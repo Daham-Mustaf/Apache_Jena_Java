@@ -1,0 +1,18 @@
+# GIM configuration
+
+---
+
+user: graphuser
+privateKey: src/main/resources/id_rsa
+
+sshPort: 31000
+
+localHost: 129.70.51.28
+localRDFPort: 3030
+localNEO4JPort: 7474
+localBoltPort: 7687
+
+remoteHost: localhost
+remoteRDFPort: 3030
+remoteNEO4JPort: 7474
+remoteBoltPort: 7687
